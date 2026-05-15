@@ -84,14 +84,23 @@ Highest revenue-generating PC brands
 Discount trends across products
 Sales distribution by region
 Popular payment methods
-Sales performance over time
+Sales performance over time 
+
 🌟 Skills Demonstrated
 SQL Query Writing & Optimization
 ETL Pipeline Development
 Data Cleaning & Standardization
 Star Schema Design
 Fact and Dimension Modeling
-Stored Procedure Automation
+Stored Procedure Automation 
+
+# 📊 Business Value
+This project helps businesses:
+- Analyze sales performance
+- Track revenue trends
+- Improve reporting efficiency
+- Support data-driven decision-making
+
 📈 Project Outcome
 
 This project successfully delivers a structured data warehouse built from raw sales data. It provides:
@@ -100,3 +109,6 @@ A scalable ETL pipeline
 Clean and consistent datasets
 A star schema optimized for analytics
 A foundation for dashboards and reporting tools
+
+# 📸 Project Screenshots
+Screenshots are available in the project_screenshots folder.
