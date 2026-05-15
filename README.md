@@ -40,24 +40,25 @@ The project uses a Star Schema structure, which is widely used in data warehousi
 
 The fact table contains measurable business values such as:
 
-Cost Price
-Sale Price
-Discount Amount
-Finance Amount
-Repair Costs
-Total Sales Metrics
+Cost Price,
+Sale Price,
+Discount Amount,
+Finance Amount,
+Repair Costs,
+Total Sales Metrics,
 📁 Dimension Tables
 
 Dimension tables provide descriptive context for analysis:
 
 Customer Dimension
-PC Dimension
-Shop Dimension
-Location Dimension
-Payment Dimension
-Channel Dimension
-Date Dimension
+PC Dimension,
+Shop Dimension,
+Location Dimension,
+Payment Dimension,
+Channel Dimension,
+Date Dimension,
 Sales Person Dimension
+
 Priority Dimension
 🧹 ETL Process Description
 1. Data Extraction
@@ -87,12 +88,12 @@ Popular payment methods
 Sales performance over time 
 
 🌟 Skills Demonstrated
-SQL Query Writing & Optimization
-ETL Pipeline Development
-Data Cleaning & Standardization
-Star Schema Design
-Fact and Dimension Modeling
-Stored Procedure Automation 
+.SQL Query Writing & Optimization
+.ETL Pipeline Development
+.Data Cleaning & Standardization
+.Star Schema Design
+.Fact and Dimension Modeling
+.Stored Procedure Automation 
 
 # 📊 Business Value
 This project helps businesses:
