@@ -10,16 +10,17 @@ Load raw computer sales data into a staging environment
 Clean, standardize, and transform the dataset for accuracy
 Design a Star Schema data warehouse model
 Build automated ETL processes using SQL stored procedures
-Maintain data integrity and improve query performance
-🛠️ Tools & Technologies Used
-SQL Server Management Studio (SSMS)
-SQL (DDL, DML, Joins, Aggregations, Filtering)
-Stored Procedures for ETL Automation
-Data Warehousing Concepts
-Cloud Platforms (Snowflake, Databricks, Azure – conceptual exposure)
-🏗️ Data Pipeline Architecture
-📂 End-to-End Flow
-Raw Dataset (pc_data)
+Maintain data integrity and improve query performance 
+
+TOOLS USED:
+.SQL Server Management Studio (SSMS)
+.SQL (DDL, DML, Joins, Aggregations, Filtering)
+.Stored Procedures for ETL Automation
+.Data Warehousing Concepts
+.Cloud Platforms (Snowflake, Databricks, Azure – conceptual exposure)
+.🏗️ Data Pipeline Architecture
+.📂 End-to-End Flow
+.Raw Dataset (pc_data)
         ↓
 Staging Layer
         ↓
